@@ -11,10 +11,10 @@ This project focuses on **automated data cleansing in healthcare** using **Natur
 - **Summary Reports**: Provides a final assessment of data quality improvements.
 
 ## 🛠️ Tech Stack
-- **Python** (pandas, NumPy, scikit-learn, NLTK, spaCy)
+- **Python** 
 - **NLP Models** (BERT, spaCy)
-- **Data Visualization** (matplotlib, seaborn)
+- **Data Visualization** (matplotlib, )
 - **Machine Learning** (if applicable)
 - **React & JavaScript** (for front-end if included)
-- 
-
+  
+To run this project u need node js package 
