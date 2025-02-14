@@ -16,7 +16,8 @@ This project focuses on **automated data cleansing in healthcare** using **Natur
 - **Data Visualization** (matplotlib, )
 - **Machine Learning** (if applicable)
 - **React & JavaScript** (for front-end if included)
-  
-To run this project u need node js package 
+-
+- To run this project u need node js package
+- 
 ![image](https://github.com/user-attachments/assets/472ebf06-c87e-421c-85af-39625ce86924)
 
